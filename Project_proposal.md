@@ -43,6 +43,8 @@ New York City Transit, MTA Bus, Long Island Rail Road, Metro-North Railroad, and
 
 This analysis will be for the data recorded on **(2019-2020)**, the data will be loaded into a pandas data frame and filtered based on the Date. after that, the analysis will be based on the dates before and after Christmas and Thanksgiving holidays to see the difference between the busyness on the normal days and these 2 holidays. 
 The main focus columns will be the differenced entries and exits for each station grouped by the date.
+- Chiratmas 25 December
+- Thanksgiving 4th Thursday in November
 
 ## Tools 
 

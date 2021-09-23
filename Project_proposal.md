@@ -1,5 +1,8 @@
 # MTA Project Proposal
 
+![Christmas](https://imgs.6sqft.com/wp-content/uploads/2018/12/21093044/santas-subway.jpg)
+
+
 ## Project idea
 
 The most 2 popular holidays in the USA are **Christmas and Thanksgiving holidays** (based on [Statista](https://www.statista.com/topics/3216/national-holidays-in-the-us/)) These holidays are celebrated by exchanging gifts, sharing food with all family members and friends. Therefore, people who celebrate them will use subways as an option to reach out to their families and friends.
@@ -12,7 +15,7 @@ MTA turnstile stations can benefit from this analysis in:
 - Prepare for the increase in number of people
 - Avoid and prepare for possible accidents
 
-## Dataset description:
+## Dataset description
 
 ### **MTA Turnstile Data** ([Source](http://web.mta.info/developers/turnstile.html)) :
 
@@ -21,7 +24,7 @@ The Metropolitan Transportation Authority is North America's largest transportat
 The MTA network comprises the nation’s largest bus fleet and more subway and commuter rail cars than all other U.S. transit systems combined. The MTA's operating agencies are MTA 
 New York City Transit, MTA Bus, Long Island Rail Road, Metro-North Railroad, and MTA Bridges and Tunnels.
 
-### Field Description:
+### Field Description
 
 | Field Name | Description                                                                     |
 |------------|---------------------------------------------------------------------------------|
@@ -39,4 +42,22 @@ New York City Transit, MTA Bus, Long Island Rail Road, Metro-North Railroad, and
 
 ### Getting the data for this project:
 
-This analysis will be for the data recorded on **(2019-2020)**, the data will be loaded into a pandas data frame and filterd based on the Date. after that, the analysis will be based on the dates before and after Christmas and Thanksgiving holidays to see the difference between the normal days and these 2 holidays. 
+This analysis will be for the data recorded on **(2019-2020)**, the data will be loaded into a pandas data frame and filtered based on the Date. after that, the analysis will be based on the dates before and after Christmas and Thanksgiving holidays to see the difference between the busyness on the normal days and these 2 holidays. 
+The main focus columns will be the differenced entries and exits for each station grouped by the date.
+
+## Tools 
+
+- SQLAlchemy in python (Querying the data)
+- Pandas and Numpy (Exploring the data)
+- Matplotlib and Seaborn (Visualizing the data)
+- Other tools may be used during the execution of the data analysis
+
+## MVP Goal
+
+this project will be delivered at the end of week 2, the project will include the following :
+
+- Final report that include the all the steps I took to finish this project
+- Final EDA code
+- Data base of the MTA turnstile data
+- Presentation explaining the summary of the project 
+

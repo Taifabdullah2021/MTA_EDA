@@ -1,7 +1,6 @@
 # MTA Project Proposal
 
-![Christmas](https://imgs.6sqft.com/wp-content/uploads/2018/12/21093044/santas-subway.jpg)
-
+<img src="https://imgs.6sqft.com/wp-content/uploads/2018/12/21093044/santas-subway.jpg" width="1000" height="400">
 
 ## Project idea
 

@@ -1,11 +1,10 @@
 # MTA Project Proposal
 
-<img src="https://imgs.6sqft.com/wp-content/uploads/2018/12/21093044/santas-subway.jpg" width="1000" height="400">
+<img src="https://imgs.6sqft.com/wp-content/uploads/2018/12/21093044/santas-subway.jpg" width="1000" height="500">
 
-## Project idea
+##
 
-The most 2 popular holidays in the USA are **Christmas and Thanksgiving holidays** (based on [Statista](https://www.statista.com/topics/3216/national-holidays-in-the-us/)) These holidays are celebrated by exchanging gifts, sharing food with all family members and friends. Therefore, people who celebrate them will use subways as an option to reach out to their families and friends.
-So, my analysis will be based on how much do these two holidays impact the busyness of all the MTA stations? What are the top 3 busiest MTA stations in Christmas and Thanksgiving?
+The top 2 popular holidays in the USA are **Christmas and Thanksgiving holidays** (based on [Statista](https://www.statista.com/topics/3216/national-holidays-in-the-us/)) The Christmas holiday is celebrated by exchanging gifts, sharing food with all family members and friends and gathreing family members together. Therefore, people who celebrate them will use subways as an option to reach out to their families and friends. due to COVID-19, New York subways are becoming a hot spot for 
 
 ## Who benefits from analysis 
 

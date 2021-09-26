@@ -4,7 +4,7 @@
 
 ##
 
-The top 2 popular holidays in the USA are **Christmas and Thanksgiving holidays** (based on [Statista](https://www.statista.com/topics/3216/national-holidays-in-the-us/)) The Christmas holiday is celebrated by exchanging gifts, sharing food with all family members and friends and gathreing family members together. Therefore, people who celebrate them will use subways as an option to reach out to their families and friends. due to COVID-19, New York subways are becoming a hot spot for 
+The top 2 popular holidays in the USA are **Christmas and Thanksgiving holidays** (based on [Statista](https://www.statista.com/topics/3216/national-holidays-in-the-us/)). Christmas holiday is celebrated by exchanging gifts, sharing food with all family members and friends and gathreing family members together. Therefore, people who celebrate them will use subways as an option to reach out to their families and friends. So, MTA requested a data analysis to help them optimize the crowd mangement during Christmas 2019.
 
 ## Who benefits from analysis 
 
@@ -38,12 +38,7 @@ New York City Transit, MTA Bus, Long Island Rail Road, Metro-North Railroad, and
 | ENTRIES    | The comulative entry register value for a device                                |
 | EXITS      | The cumulative exit register value for a device                                 |
 
-### Getting the data for this project:
 
-This analysis will be for the data recorded on **(2019-2020)**, the data will be loaded into a pandas data frame and filtered based on the Date. after that, the analysis will be based on the dates before and after Christmas and Thanksgiving holidays to see the difference between the busyness on the normal days and these 2 holidays. 
-The main focus columns will be the differenced entries and exits for each station grouped by the date.
-- Chiratmas 25 December
-- Thanksgiving 4th Thursday in November
 
 ## Tools 
 
@@ -54,7 +49,7 @@ The main focus columns will be the differenced entries and exits for each statio
 
 ## MVP Goal
 
-this project will be delivered at the end of week 2, the project will include the following :
+this project will be delivered at the end of week 2 as a project 1 for the Metis Data Science Bootcamp, the project will include the following :
 
 - Final report that include the all the steps I took to finish this project
 - Final EDA code

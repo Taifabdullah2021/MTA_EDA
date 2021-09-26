@@ -1,17 +1,15 @@
 # MTA Project Proposal
 
-<img src="https://imgs.6sqft.com/wp-content/uploads/2018/12/21093044/santas-subway.jpg" width="1000" height="500">
+<img src="https://cdn.theculturetrip.com/wp-content/uploads/2017/05/16423052802_4256e42572_z.jpg" width="1000" height="300">
 
-##
+## Introduction 
+ A small company that sells merch across the U.S wants to place five new trucks that sell souvenirs for the tourists in summer in front of the MTA subway stations, the company wants to optimize the profits by placing the three trucks in the stations that are on high demand in the summer. Therefore, they want a data analysis of the MTA turnstile dataset to find the best time slots and locations to place the trucks in New York.
 
-The top 2 popular holidays in the USA are **Christmas and Thanksgiving holidays** (based on [Statista](https://www.statista.com/topics/3216/national-holidays-in-the-us/)). Christmas holiday is celebrated by exchanging gifts, sharing food with all family members and friends and gathreing family members together. Therefore, people who celebrate them will use subways as an option to reach out to their families and friends. So, MTA requested a data analysis to help them optimize the crowd mangement during Christmas 2019.
 
 ## Who benefits from analysis 
 
-MTA turnstile stations can benefit from this analysis in:
-- Solve the under-staffing problems if exist  
-- Prepare for the increase in number of people
-- Avoid and prepare for possible accidents
+
+
 
 ## Dataset description
 

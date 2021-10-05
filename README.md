@@ -1,4 +1,4 @@
-# MTA Project Proposal
+# MTA Project 
 
 ## Introduction 
  A small company that sells merch across the U.S wants to place five new trucks that sell souvenirs for the tourists in summer in front of the MTA subway stations, the company wants to optimize the profits by placing the five trucks in the stations that are on high demand in the summer. Therefore, they want a data analysis of the MTA turnstile dataset to find the best time slots and locations to place the trucks in New York.
